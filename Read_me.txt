@@ -1,0 +1,1 @@
+This task, intentionally creates spatial temporal conflicts among three drones, on occurrence of conflicts the detailed information (Time, position in three dimensional space, Drone number) of the conflicts are displayed successfully, besides supporting the primary mission to proceed further without any expected conflicts in future.
